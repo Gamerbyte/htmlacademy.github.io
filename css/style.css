@@ -1,0 +1,54 @@
+h1
+{
+	color: green;
+	font-size: 20px;
+	text-align: center;
+	font-family: Verdana;
+	font-weight: normal;
+}
+h2
+{
+	color: #66CCFF;
+	width: 300px;
+	text-align: right;
+	font-style: italic;
+	font-size: 20px;
+}
+h3
+{
+	color: #FF6600;
+}
+table
+{
+	width:400px;	
+	height:200px;
+	writing-mode: tb-rl;
+}
+td
+{
+	text-align: center;
+}
+th
+{
+	writing-mode: tb-rl;
+	text-align: center;
+}
+p
+{
+	text-indent: 15px;
+	font-family: Arial;
+	color: FFFF00;
+	text-align: justify;
+	font-style: italic;
+	text-indent: 30px;
+}
+.green
+{
+	color: 33FF00;
+	font-style: normal;
+}
+.fuck
+{
+	color: red;
+	text-align: center;
+}
